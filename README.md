@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 [![Generic badge](https://img.shields.io/badge/Open%20to%20work-Yes-success.svg)](https://shields.io/)
 [![GitHub followers](https://img.shields.io/github/followers/izzet.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/izzet?tab=followers)
-![Twitter Follow](https://img.shields.io/twitter/follow/izzetcyildirim?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/izzetcyildirim?style=social)](https://twitter.com/izzetcyildirim)
 
 
 <!--
