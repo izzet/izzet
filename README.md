@@ -1,11 +1,34 @@
-### Hello 👋
+### Hi, I'm Izzet 👋
 
-Here are some ideas to get you started:
+Genuinely curious, multidisciplinary software engineer whose main focus nowadays is helping companies to develop cloud-native cross-platform mobile applications while pursuing his dreams in getting a master's degree to become a better computer scientist.
 
-- 🔭 I’m currently working on _side projects that I have been ignoring for so long_.
-- 🌱 I’m currently learning _Artificial Intelligence, Machine Learning and Deep Learning_.
-- 💬 Ask me about _cross-platform mobile app development, Azure, GraphQL, Next_.
-- 📫 How to reach me: https://izzet.dev
+#### 🔭 Currently working on
+
+- Sole: A side project that is built on React Native for Web, GraphQL, Apollo, TypeScript and Azure
+- Several freelance projects from my clients  
+
+#### 🌱 Currently learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Distributed & Cloud Computing
+
+#### 💬 Ask me about
+
+- React 
+- React Native (for Web)
+- Redux/MobX/Apollo
+- GraphQL
+- TypeScript
+- Azure
+- World of Warcraft ⚔️
+
+#### 📫 How to reach me
+
+- Personal: https://izzet.dev
+- Email: izzet@izzet.dev
+- Clubhouse: @iyildirim
 
 [![Generic badge](https://img.shields.io/badge/Open%20to%20work-Yes-success.svg)](https://linkedin.com/in/izzetcyildirim)
 [![GitHub followers](https://img.shields.io/github/followers/izzet.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/izzet?tab=followers)
