@@ -28,7 +28,7 @@ Genuinely curious, multidisciplinary software engineer whose main focus nowadays
 
 - Personal: https://izzet.dev
 - Email: izzet@izzet.dev
-- Clubhouse: @iyildirim
+- Clubhouse: @izzetcyildirim
 
 [![Generic badge](https://img.shields.io/badge/Open%20to%20work-Yes-success.svg)](https://linkedin.com/in/izzetcyildirim)
 [![GitHub followers](https://img.shields.io/github/followers/izzet.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/izzet?tab=followers)
