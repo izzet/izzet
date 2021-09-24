@@ -1,6 +1,6 @@
 ### Hi, I'm Izzet 👋
 
-Genuinely curious, multidisciplinary software engineer whose main focus nowadays is helping companies to develop cloud-native cross-platform mobile applications while pursuing his dreams in getting a master's degree to become a better computer scientist.
+Genuinely curious, multidisciplinary software engineer whose main focus nowadays is helping companies to develop cloud-native cross-platform mobile applications while pursuing his dreams in getting a PhD to become a better computer scientist.
 
 #### 🔭 Currently working on
 
