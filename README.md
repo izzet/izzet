@@ -4,11 +4,13 @@ Genuinely curious, multidisciplinary software engineer whose main focus nowadays
 
 #### 🔭 Currently working on
 
+- Research on making storage more efficient for High Performance Computing
 - Sole: A side project that is built on React Native for Web, GraphQL, Apollo, TypeScript and Azure
-- Several freelance projects from my clients  
+- Consulting my clients from various countries
 
 #### 🌱 Currently learning
 
+- High Performance Computing
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
@@ -28,7 +30,6 @@ Genuinely curious, multidisciplinary software engineer whose main focus nowadays
 
 - Personal: https://izzet.dev
 - Email: izzet@izzet.dev
-- Clubhouse: @izzetcyildirim
 
 [![Generic badge](https://img.shields.io/badge/Open%20to%20work-Yes-success.svg)](https://linkedin.com/in/izzetcyildirim)
 [![GitHub followers](https://img.shields.io/github/followers/izzet.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/izzet?tab=followers)
